@@ -1,5 +1,5 @@
 About.txt
 kako-v01/features.txt
 kako-v01/changelog.txt
+kako-v01/sound-palette.txt
 kako-v01/readme.txt
-sound-palette.txt
