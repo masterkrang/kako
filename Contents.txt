@@ -6,3 +6,4 @@ chapter2.txt
 chapter3.txt
 features.txt
 changelog.txt
+readme.txt
