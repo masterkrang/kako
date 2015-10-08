@@ -1,3 +1,4 @@
 # features
+sound pallete
+grammatical structure / sentence structure
 
-Write here...
