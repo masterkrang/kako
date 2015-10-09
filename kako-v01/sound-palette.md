@@ -10,6 +10,6 @@
 
 ##Research
 
-* Which consonants are most common across most languages?
+* Which consonants and vowels are most common across most languages?
 * Which group of consonants could be chosen that will maintain continuity?
 * Which sounds (consonant / vowel) are easiest for computers to understand?
