@@ -1,5 +1,16 @@
 # Sound Palette (is this the right term?)
 
+##Consonants
+
+- candidate: "k"
+- reason:
+
+
+##Vowels
+
+- candidate: "a"
+- reason:
+
 ##Objectives
 
 * To choose a group of consonants and vowels.
@@ -13,3 +24,8 @@
 * Which consonants and vowels are most common across most languages?
 * Which group of consonants could be chosen that will maintain continuity?
 * Which sounds (consonant / vowel) are easiest for computers to understand?
+
+##Notes
+
+* frequency analysis seems the likely way to determine which consonants and vowels occur most frequently: https://en.wikipedia.org/wiki/Frequency_analysis
+* apparent most occurring used letters in english: https://en.wikipedia.org/wiki/Etaoin_shrdlu
