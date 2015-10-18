@@ -19,7 +19,8 @@ here are some goals behind kako:
 - to make translation much easier by allowing foreign languages to be translated into kako, that people fluent in kako can consume foreign content more easily.
 - to eradicate undesirable aspects of languages. for example, hatred of people's, discrimination, sexism.
 - to create a language that is highly *reusable*.
--- Notes: every syllable should be a self contained word and stand alone by itself as a frequently used word with valuable meaning. this is often referred to as a "root word" or "word cell". frome these words, new words could be constructed. this hase been referred to as "derivational word formation", and it is believed to be a reason why languages like Esperanto are successful.
+- to create a language that is *deflationary*.
+-- Notes: every syllable should be a self contained word and stand alone by itself as a frequently used word with valuable meaning. this is often referred to as a "root word" or "word cell". from these words, new words could be constructed. this has been referred to as "derivational word formation", and it is believed to be a reason why languages like Esperanto are successful.
 
 ## ask questions
 
