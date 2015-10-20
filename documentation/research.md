@@ -12,6 +12,8 @@
 
 ## all combinations
 
+CVC - 1 syllable - 20 consonants - 10 vowels =  3,610 words
+
 # Calculating total words across languages
 
 http://www.languagemonitor.com/number-of-words/number-of-words-in-the-english-language-1008879/
@@ -24,4 +26,4 @@ So this is not the most relevant number and in my opinion here is why: This numb
 
 
 
-How many English
+How many English words are relevant now?
