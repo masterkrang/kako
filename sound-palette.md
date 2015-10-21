@@ -1,5 +1,16 @@
 # Sound Palette (is this the right term?)
 
+## Sound inventory
+
+- **consonants**: m k j p w b h g N ? n s tS S t f l "n "t nj (most used 20 across 451 languages)
+- **vowels**: i a u E "o "e O o e a~ (most used 10 across 451 languages)
+
+- Note: these are only sounds to choose from, not all of these have been introduced into the Kako language. These are simply a palette to choose from when constructing new words.
+- more info: http://web.phonetik.uni-frankfurt.de/upsid_info.html
+
+## Sound Palette
+- not yet defined
+
 ##Consonants
 
 - candidate: "k"
